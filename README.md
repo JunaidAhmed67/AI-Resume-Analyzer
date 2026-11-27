@@ -2,16 +2,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)<img width="720" height="1600" alt="Verify Email" src="https://github.com/user-attachments/assets/0860d0d9-4836-419c-aa14-aafdbc06690f" />
-<img width="720" height="1600" alt="Save as PDF" src="https://github.com/user-attachments/assets/f361c3a7-485f-4a1c-bd08-f77aefef21e1" />
-<img width="720" height="1600" alt="Missing Skills and Tips" src="https://github.com/user-attachments/assets/70f3041e-b081-454d-a359-232fffeb90c2" />
-<img width="720" height="1600" alt="Login" src="https://github.com/user-attachments/assets/83d76101-9719-4cc8-949e-8fe9d4f235f2" />
-<img width="720" height="1600" alt="Improved Resume" src="https://github.com/user-attachments/assets/13054cdc-6ff9-4218-a925-7ce7316c1f34" />
-<img width="720" height="1600" alt="Home" src="https://github.com/user-attachments/assets/db9b2a7e-b94a-492f-8e49-58c2c468b4e8" />
-<img width="720" height="1600" alt="History" src="https://github.com/user-attachments/assets/77e482d1-1147-4b9e-b9c5-77768bad6dd3" />
-<img width="720" height="1600" alt="Analysis Result" src="https://github.com/user-attachments/assets/5c1f20ac-1ee4-48fc-a51e-84183626fe84" />
-
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 
@@ -67,10 +58,8 @@ A mobile app that analyzes a CV (resume), scores it, shows **missing skills**, s
 ---
 
 ## Screenshots
-  
 
-<img width="720" height="1600" alt="Analysis Result" src="https://github.com/user-attachments/assets/bc443bb1-e947-44f8-9e54-74b98d3dd825" />
-
+> Put your screenshots in a folder named `screenshots/` in the project root and keep the file names below (or edit the paths).
 
 | Login | Verify Email | Home |
 |:---:|:---:|:---:|
