@@ -58,28 +58,21 @@ A mobile app that analyzes a CV (resume), scores it, shows **missing skills**, s
 ---
 
 ## Screenshots
+  
 
-> Put your screenshots in a folder named `screenshots/` in the project root and keep the file names below (or edit the paths).
+
 
 | Login | Verify Email | Home |
 |:---:|:---:|:---:|
-|<img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/3a210cdd-102a-41ff-b5bf-2973c2da47a8" />
- | <img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/af29a22c-5174-4308-a857-6450b02bc77f" />
- | <img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/b8bb6a74-2ced-4801-8319-45df32618aa8" />
-|
+| <img src="screenshots/login.png" width="200" alt="Login screen"> | <img src="screenshots/verify_email.png" width="200" alt="Verify email screen"> | <img src="screenshots/home.png" width="200" alt="Home screen"> |
 
 | Analysis Result | Missing Skills and Tips | Improved Resume |
 |:---:|:---:|:---:|
-|<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/1560c503-a6ee-4fe6-8c1a-5760da7f1f27" />
-| <img width="720" height="1600" alt="5" src="https://github.com/user-attachments/assets/76cb3f37-6880-4efd-8e60-55c4f6e9b6c3" />
- | <img width="720" height="1600" alt="6" src="https://github.com/user-attachments/assets/e545da90-e3e3-4ee2-b8c4-a7f86fcd74c1" />
- |
+| <img src="screenshots/result.png" width="200" alt="Analysis result"> | <img src="screenshots/result_details.png" width="200" alt="Missing skills and improvements"> | <img src="screenshots/improved_resume.png" width="200" alt="Improved resume preview"> |
 
 | Save as PDF | History |
 |:---:|:---:|
-| <img width="720" height="1600" alt="7" src="https://github.com/user-attachments/assets/58106b0c-b233-47ce-ad6e-7e1c2744cd98" />
- | <img width="720" height="1600" alt="8" src="https://github.com/user-attachments/assets/28d27afd-d1c9-4e78-ab25-6c0f717c3d6b" />
- |
+| <img src="screenshots/save_pdf.png" width="200" alt="Save as PDF dialog"> | <img src="screenshots/history.png" width="200" alt="History screen"> |
 
 **How to take screenshots on the emulator:** click the camera icon in the emulator's side toolbar, or press `Ctrl + S`. On a real phone, press Power + Volume Down.
 
