@@ -61,25 +61,37 @@ A mobile app that analyzes a CV (resume), scores it, shows **missing skills**, s
 
 ---
 
+---
+
 ## Screenshots
 
-> Put your screenshots in a folder named `screenshots/` in the project root and keep the file names below (or edit the paths).
+### 1. Login & Email Verification
 
-| Login | Verify Email | Home |
-| :---: | :----------: | :--: |
-|      |              |      |
+|          Login Screen          |                   Verify Email                   |
+| :-----------------------------: | :-----------------------------------------------: |
+| ![Login](Screenshoot/Login.png) | ![Verify Email](<Screenshoot/Verify%20Email.png>) |
 
-| Analysis Result | Missing Skills and Tips | Improved Resume |
-| :-------------: | :---------------------: | :-------------: |
-|                |                        |                |
+### 2. Home Screen
 
-| Save as PDF | History |
-| :---------: | :-----: |
-|            |        |
+![Home Screen](Screenshoot/Home.png)
 
-**How to take screenshots on the emulator:** click the camera icon in the emulator's side toolbar, or press `Ctrl + S`. On a real phone, press Power + Volume Down.
+### 3. Resume Analysis
 
----
+![Analysis Result](<Screenshoot/Analysis%20Result.png>)
+
+![Missing Skills and Tips](<Screenshoot/Missing%20Skills%20and%20Tips.png>)
+
+### 4. Improved Resume
+
+![Improved Resume](<Screenshoot/Improved%20Resume.png>)
+
+### 5. Download Resume as PDF
+
+![Save as PDF](<Screenshoot/Save%20as%20PDF.png>)
+
+### 6. Past Analyses
+
+![Past Analyses](Screenshoot/History.png)
 
 ## Tech Stack and Libraries
 
