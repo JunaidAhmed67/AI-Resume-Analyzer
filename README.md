@@ -60,6 +60,7 @@ A mobile app that analyzes a CV (resume), scores it, shows **missing skills**, s
 ## Screenshots
   
 
+<img width="720" height="1600" alt="Analysis Result" src="https://github.com/user-attachments/assets/bc443bb1-e947-44f8-9e54-74b98d3dd825" />
 
 
 | Login | Verify Email | Home |
