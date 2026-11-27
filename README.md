@@ -64,7 +64,6 @@ A mobile app that analyzes a CV (resume), scores it, shows **missing skills**, s
 
 ## Screenshots
 
-> The screenshots below are stored in the `Screenshoot/` folder in the project root. Keep the folder and filenames exactly as shown because GitHub paths are case-sensitive.
 
 ### Authentication
 
